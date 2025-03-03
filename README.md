@@ -12,3 +12,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Accès à l'application
+
+L'application "le shell" est accessible à l'adresse http://localhost:3000
